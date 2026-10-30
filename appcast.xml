@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Origami Aggiornamenti</title>
+        <link>https://raw.githubusercontent.com/stegidi/origami-releases/main/appcast.xml</link>
+        <description>Nuove versioni e aggiornamenti per Origami.</description>
+        <language>it</language>
+        <item>
+            <title>Origami 1.0</title>
+            <sparkle:releaseNotesLink>https://github.com/stegidi/origami-releases/releases/tag/v1.0</sparkle:releaseNotesLink>
+            <pubDate>Fri, 30 Oct 2026 14:57:21 +0100</pubDate>
+            <enclosure
+                url="https://github.com/stegidi/origami-releases/releases/download/v1.0/Origami.zip"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0"
+                sparkle:edSignature="mNwlhYolLlHIUJZFLjldHKQyER7280i6B5Za/mFthWToM+ZcAJkZAdVN6TTCxV7TeZiIIGtZ7M8yrKNSj0j9Aw=="
+                length="1600336"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
