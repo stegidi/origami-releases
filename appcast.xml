@@ -6,15 +6,15 @@
         <description>Nuove versioni e aggiornamenti per Origami.</description>
         <language>it</language>
         <item>
-            <title>Origami 1.3</title>
-            <sparkle:releaseNotesLink>https://github.com/stegidi/origami-releases/releases/tag/v1.3</sparkle:releaseNotesLink>
-            <pubDate>Sat, 31 Oct 2026 12:39:36 +0100</pubDate>
+            <title>Origami 1.4</title>
+            <sparkle:releaseNotesLink>https://github.com/stegidi/origami-releases/releases/tag/v1.4</sparkle:releaseNotesLink>
+            <pubDate>Sat, 31 Oct 2026 12:47:08 +0100</pubDate>
             <enclosure
-                url="https://github.com/stegidi/origami-releases/releases/download/v1.3/Origami.zip"
-                sparkle:version="4"
-                sparkle:shortVersionString="1.3"
-                sparkle:edSignature="r/9MXejyqT9GNnDW4bRwI0qx+rOifoefo5KE5HzV4Sj8mbSDEW3mRGi7VRkEwxBOTCzqJTTED3lOQINnu1ZNDg=="
-                length="1617011"
+                url="https://github.com/stegidi/origami-releases/releases/download/v1.4/Origami.zip"
+                sparkle:version="5"
+                sparkle:shortVersionString="1.4"
+                sparkle:edSignature="ao1S4i3h9Op2A+PRKRC/XiEzxLndujeGJCZKLs9ERh0HKPN4eyjcEgqjI4xBAGTAtOp58ddceE9ggLAYMtRlAA=="
+                length="1617611"
                 type="application/octet-stream" />
         </item>
     </channel>
